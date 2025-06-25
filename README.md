@@ -4,7 +4,7 @@
 - ✈️ PHP back end developer,
 - 🌱 I’m currently building apps, using the Flutter framework,
 - ✅ I build IOS and Android apps, 
-- 🔥 I integrate FIREBASE, LARAVEL AND GRAPH QL
+- 🔥 I integrate JAVASCRIPT, FIREBASE, LARAVEL AND GRAPH QL
 - 💞️ I’m looking to help actulize dreams,
 
 
