@@ -1,10 +1,7 @@
 - 📫 How to reach me Benrichprince1@gmail.com
-- 👋 Hi, I’m Benrich Chimbuchi Prince
-- 👀 I’m a Flutter mobile Software developer,
-- ✈️ PHP back end developer,
-- 🌱 I’m currently building apps, using the Flutter framework,
+- 👀 Software developer, Rest Api and back End Dev, IT Consulting.
+- ✈️ PHP, Flutter, MySql, Mongodb, Firebase, Postman, Html, Javascript, Css, Bootstrap
+- 🌱 I’m currently building Softwares, Games, websites and Rest APis.
 - ✅ I build IOS and Android apps, 
 - 🔥 I integrate JAVASCRIPT, FIREBASE, LARAVEL AND GRAPH QL
-- 💞️ I’m looking to help actulize dreams,
-
-
+- 🚅 I’m actulizing dreams,
