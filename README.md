@@ -1,7 +1,7 @@
-- 📫 How to reach me Benrichprince1@gmail.com
-- 👀 Software developer, Rest Api and back End Dev, IT Consulting.
+- 👀 Rest Api, Software engineer, and back End Dev, IT Consulting.
 - ✈️ PHP, Flutter, MySql, Mongodb, Firebase, Postman, Html, Javascript, Css, Bootstrap
 - 🌱 I’m currently building Softwares, Games, websites and Rest APis.
 - ✅ I build IOS and Android apps, 
 - 🔥 I integrate JAVASCRIPT, FIREBASE, LARAVEL AND GRAPH QL
 - 🚅 I’m actulizing dreams,
+- 📫 How to reach me Benrichprince1@gmail.com
