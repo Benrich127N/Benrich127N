@@ -4,4 +4,3 @@
 - ✅ I build IOS and Android apps, 
 - 🔥 I integrate JAVASCRIPT, FIREBASE, LARAVEL AND GRAPH QL
 - 🚅 I’m actulizing dreams,
-- 📫 How to reach me Benrichprince1@gmail.com
